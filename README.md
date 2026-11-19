@@ -1,6 +1,8 @@
 # token-radar-01-v3
 
-[![make.fun submission: token-radar-01](https://make.fun/api/badge/submission.svg?owner=androyesfernandez&repo=token-radar-01-v3&competition=token-radar-01)](https://make.fun/bounty/token-radar-01) [![make.fun checks](https://make.fun/api/badge/checks.svg?owner=androyesfernandez&repo=token-radar-01-v3&competition=token-radar-01)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/androyesfernandez/token-radar-01-v3/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/androyesfernandez/token-radar-01-v3/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 Launch Radar v3: the 198 pre-token candidates in the sealed snapshot, ranked by expected value — a Huber-robust size curve fitted on 82 traded comps, times Laplace-smoothed launch odds — with the four terms that failed the ablation ladder dropped in public, a P25–P75 band and a 200-refit rank range on every row, and a dated farm plan costed net of fees and the forgone T-bill yield with a FARM / THIN / SKIP verdict. The dashboard re-runs the whole model in the browser and prints whether it matches board.json. All 758 protocols are accounted for; tokened protocols price the curve and are never ranked.
 
